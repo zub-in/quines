@@ -1,0 +1,1 @@
+Q9='Q9=%r;print(Q9%%Q9)';print(Q9%Q9)
